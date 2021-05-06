@@ -280,7 +280,7 @@ header {
 }
 
 /*Responsive Breakpoint*/
-@media (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
 	.menu {
 		order: inherit;
 		grid-template-columns: 1fr;
@@ -359,7 +359,7 @@ header {
 
 
 /*mobile*/
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
 	body {
 		margin: 18px;
 	}
