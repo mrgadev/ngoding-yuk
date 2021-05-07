@@ -359,7 +359,7 @@ header {
 
 
 /*mobile*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 476px) {
 	body {
 		margin: 18px;
 	}
